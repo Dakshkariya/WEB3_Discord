@@ -1,4 +1,5 @@
-# Dappcord
+# Web3_Discord
+
 
 ## Technology Stack & Tools
 
