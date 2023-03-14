@@ -14,7 +14,7 @@ const Navigation = ({ account, setAccount }) => {
   return (
     <nav>
       <div className='nav__brand'>
-        <h1>Dappcord</h1>
+        <h1>Web3 Discord</h1>
       </div>
 
       {account ? (
